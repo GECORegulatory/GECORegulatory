@@ -1,3 +1,5 @@
+"Vimrc
+" Reload with nvim -c ":source ~/.config/nvim/init.vim" init.vim 
 " START PLUG CALL
 call plug#begin('~/.local/share/nvim/plugged')
 " Install coc"
